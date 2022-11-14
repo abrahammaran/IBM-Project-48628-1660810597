@@ -15,9 +15,9 @@ Team member : MAHESWARAN U
 Team member : TAMILSELVAN R
 
 # Objectives:
-## • Improve the understanding of disaster risk, hazards, and vulnerabilities
+### • Improve the understanding of disaster risk, hazards, and vulnerabilities
 • Strengthen disaster risk governance at all levels from local to centre
-• Invest in disaster risk reduction for resilience through structural, nonstructural and financial measures, as well as comprehensive capacity 
+• Invest in disaster risk reduction for resilience through structural, non structural and financial measures, as well as comprehensive capacity 
 development
 • Enhance disaster preparedness for effective response
 • Promote “Build Back Better” in recovery, rehabilitation and 
